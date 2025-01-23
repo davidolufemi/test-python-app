@@ -1,5 +1,5 @@
 import pytest
-from app import add  # Import the add function from app.py
+from addition import add  # Import the add function from app.py
 
 def test_add():
     # Test normal addition
